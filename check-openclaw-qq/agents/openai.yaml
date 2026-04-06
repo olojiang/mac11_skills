@@ -1,0 +1,4 @@
+interface:
+  display_name: "check_openclaw_qq"
+  short_description: "Diagnose OpenClaw QQ OneBot no-reply issues quickly"
+  default_prompt: "Use this skill to diagnose OpenClaw QQ (OneBot) message no-reply problems end-to-end."

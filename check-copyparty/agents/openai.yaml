@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check Copyparty"
+  short_description: "Troubleshoot Copyparty and Samba quickly."
+  default_prompt: "Use this skill to diagnose and fix Copyparty startup, access, and SMB/Samba conflicts with verification-first workflow."
